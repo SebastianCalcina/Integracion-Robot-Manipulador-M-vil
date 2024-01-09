@@ -1,0 +1,96 @@
+# Lista de Materiales
+## Impresión 3D
+* 6x Kg de Filamento
+
+## Motores Paso a Paso
+\#   | Tipo | Tamaño | Torque | Etc. | Tiendas | Ubicación
+:--- | :--- | :----- | :------------- | :--- | :--- | :---
+1 | Nema 17 | 40mm | 40 N.cm |  | [Epy Electronics]https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/motor-nema-17-pap-40mm-1-7a/ | Articulación 1
+3 | Nema 17 | 34mm | 121.2 N.cm | 5:1 Reducción Planetaria | [StepperOnline](https://www.omc-stepperonline.com/nema-17-stepper-motor-bipolar-l-33mm-w-gear-ratio-5-1-planetary-gearbox-17hs13-0404s-pg5?tracking=5c5b1e7294397), [Aliexpress](https://s.click.aliexpress.com/e/_A8RoJF) | Articulación 2 & 3
+3 | Nema 17 | 34mm | 21.57 N.cm |  | [Epy Electronics]https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/motor-nema-17-pap-34mm-0-4a/ | Articulación 4, 5 & 6
+4 | Nema 17 | 40mm | 40 N.cm |  | [Epy Electronics]https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/motor-nema-17-pap-40mm-1-7a/ | Articulación 1
+
+## Correas y Poleas
+### Correas
+\#   | Tipo | Tamaño  | Ancho  | Tiendas
+:--- | :--- | :----- | :--- | :---
+2 | GT2 Correa Cerrada | 208mm (104 dientes) | 6mm | [Aliexpress](https://s.click.aliexpress.com/e/_AMYSwi),[Epy Electronics] https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/correa-dentada-gt2-6mm/
+1 | GT2 Correa Abierta   | 1m | 6mm | [Aliexpress](https://s.click.aliexpress.com/e/_ApihWA), [Epy Electronics] https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/correa-dentada-gt2-6mm/
+4 | GT2 Correa Abierta   | 1m | 10mm | [Epy Electronics](https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/correa-dentada-gt2-10mm/)
+### Poleas
+\#   | Tipo | Número de Dientes | Tiendas |
+:--- | :--- | :-------------- | :--- |
+3 | GT2 Polea| 20  | [Aliexpress](https://s.click.aliexpress.com/e/_AepsgA),[Epy Electronics] https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/polea-gt2-20-dientes-5mm/
+2 | GT2 Polea | 40  | [Aliexpress](https://s.click.aliexpress.com/e/_AnKXIW),[Sawers] https://tienda.sawers.com.bo/polea-de-sincronizacion-gt2-40-dientes-diametro-5mm-para-correa
+4 | GT2 Polea| 16  | [Epy Electronics](https://epyelectronica.com/tienda/3d-cnc-y-drones/3d-cnc-3d-cnc-y-drones-2/polea-gt2-20-dientes-5mm-correa-10mm/)
+## Rodamientos
+\#   | Tipo | Tiendas
+:--- | :--- | :---
+1  | 16014zz |[Aliexpress](https://s.click.aliexpress.com/e/_AUT0UI), [Thingiverse (3D printed)](http://www.thingiverse.com/thing:2194668)
+11 | 625ZZ Rodamiento| [Aliexpress](https://s.click.aliexpress.com/e/_9zzCXM), [Sawers] https://tienda.sawers.com.bo/625zz-rodamiento-?search=rodamiento
+2  | MF84ZZ Rodamiento | [Aliexpress](https://s.click.aliexpress.com/e/_AoHExk)
+?  | Bolas de Metal o Plástico 6 mm | [Aliexpress](https://s.click.aliexpress.com/e/_9RFLiW) 
+
+## Ejes
+\#   | Largo (mm) | Diametro (mm) | Tiendas
+:--- | :---------- | :------------ | :---
+2 | 14   | 4 | [Aliexpress](https://s.click.aliexpress.com/e/_9hq6Z0)
+1 | 14,5 | 5 | [Aliexpress](https://s.click.aliexpress.com/e/_9hq6Z0)
+1 | 32   | 5 | [Aliexpress](https://s.click.aliexpress.com/e/_9hq6Z0)
+1 | 102  | 5 | [Aliexpress](https://s.click.aliexpress.com/e/_9hq6Z0)
+1 | 128  | 5 | [Aliexpress](https://s.click.aliexpress.com/e/_9hq6Z0)
+
+## Tuercas y Pernos
+### Pernos
+\#   | Tamaño | Largo (mm)
+:--- | :--- | :----------
+2  | M3 | 10
+6  | M3 | 6
+46 | M3 | 8
+1  | M3 | 10
+15 | M3 | 12
+9  | M3 | 16
+4  | M3 | 18
+8  | M3 | 25
+8  | M3 | 28
+8  | M3 | 30
+13 | M3 | 40
+8  | M3 | 46
+1  | M5 | 18
+
+### Tuercas
+\#   | Tamaño | Etc
+:--- | :--- | :---
+2 | M2 | -
+90 | M3 | -
+1  | M5 | Self-Locking Nut
+
+## Electronica
+\#   | Parte | Descripción | Tiendas
+:--- | :--- | :---------- | :---
+1 | Arduino Mega  | - | [Arduino](https://store.arduino.cc/arduino-mega-2560-rev3), [Aliexpress (clon)](https://s.click.aliexpress.com/e/_AesTXs)
+1 | Micro Endstop | - | [Aliexpress](https://s.click.aliexpress.com/e/_9znLY2)
+7 | Fans          | 40 x 40 x 10mm (stepper motor cooling) | [Aliexpress](https://s.click.aliexpress.com/e/_A6MTo6)
+
+### Placa PCB 
+\#   | Parte | Referencia | Descripción | Tiendas
+:--- | :--- | :--- | :---------- | :---
+1   | PCB | - | - |
+4   | A4988 Stepper Motor Driver | - | - | [Sawers] (https://tienda.sawers.com.bo/modulo-controlador-de-motor-pap-pololu?search=a4988), [Aliexpress](https://s.click.aliexpress.com/e/_994syA)
+7   | DRV8825 Stepper Motor Driver | - | - | [Sawers] (https://tienda.sawers.com.bo/drv8825-driver-motor-stepper?search=drv8825), [Aliexpress](https://s.click.aliexpress.com/e/_994syA)
+8   | 100uF Capacitor | C1, C2, C3, C4, C5, C6, C7, C8 | 16V SMD| [Aliexpress](https://s.click.aliexpress.com/e/_AO4tSq), [RS](http://es.rs-online.com/web/p/condensadores-de-aluminio/5370433/)
+8   | 100kΩ Resistor | R9, R10, R11, R12, R13, R14, R15, R16 | SMD 1206 | [Aliexpress](https://s.click.aliexpress.com/e/_9J2IMe), [RS](http://es.rs-online.com/web/p/resistencias-fijas-para-montaje-en-superficie/7219986/)
+8   | 10kΩ Resistor | R1, R2, R3, R4, R5, R6, R7, R8| SMD 1206 | [Aliexpress](https://s.click.aliexpress.com/e/_9J2IMe), [RS](http://es.rs-online.com/web/p/resistencias-fijas-para-montaje-en-superficie/0153999/)
+3   | 620Ω Resistor | RLED1, RLED2, RLED3 | SMD 1206 | [Aliexpress](https://s.click.aliexpress.com/e/_9J2IMe), [RS](http://es.rs-online.com/web/p/resistencias-fijas-para-montaje-en-superficie/6696531/)
+3   | LED | DLED1, DLED2, DLED3 | SMD 1206 | [Aliexpress](https://s.click.aliexpress.com/e/_AMbbno), [RS](http://es.rs-online.com/web/p/led-visibles/8886095/)
+1   | 1N4004 Diode | D1 | THT | [Aliexpress](https://s.click.aliexpress.com/e/_9wAHIA), [RS](http://es.rs-online.com/web/p/diodos-schottky-y-rectificadores/6289029/)
+1   | MF-R700 Fuse | F1 | THT | [Aliexpress](https://s.click.aliexpress.com/e/_A4VvmW), [RS](http://es.rs-online.com/web/p/fusibles-con-pines-de-conexion-rearmables/6478645/)
+169 | Male Pins | PM, PS, PT, PA, PDIG | THT | [Aliexpress](https://s.click.aliexpress.com/e/_AopG0A)
+2   | PCB Terminal Block | POWERPIN1, SW1 | 1x2 THT | [Aliexpress](https://s.click.aliexpress.com/e/_ANqIds), [RS](http://es.rs-online.com/web/p/bloques-terminales-para-pcb/4258720)
+128 | Female Pins | U1, U2, U3, U4, U5, U6, U7, U8 | - | [Aliexpress](https://s.click.aliexpress.com/e/_A9ZZFo)
+24  | Jumpers | - | - | [Aliexpress](https://s.click.aliexpress.com/e/_Ag38IK)
+
+###  Opto-Sensores Comerciales 
+\#   | Parte | Descripción | Tiendas
+:--- | :--- | :---------- | :---
+4  | Optical Endstop | - | [Aliexpress](https://s.click.aliexpress.com/e/_Atvy22)
